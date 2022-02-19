@@ -1,3 +1,44 @@
 body {
     padding-top: 5rem;
 }
+
+.box {
+    height: 30px;
+    width: 450px;
+}
+
+h2, h6, hr{
+    margin: 10px;
+}
+
+.submit {
+    color: #fff;
+    background-color: rgb(32, 129, 185);
+    border-radius: 5px;
+    border: none;
+    margin-top: 1em;
+    padding: 0.45em 1.7em;
+}
+
+.container{
+    background-color:#ffff;
+}
+
+.textarea {
+    height: 220px;
+    width: 450px;
+    font-weight: bold;
+}
+
+.flashes {
+    padding: 20px;
+    background-color: #12c14f;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+}
+
+#labels {
+    margin-left: -10px;
+    font-weight: bold;
+}
